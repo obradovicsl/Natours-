@@ -1,3 +1,4 @@
 # Natours Application
 
-Built using modern technologies: node.js, express, mongoDB, mongoose and friends 😁
+Backend, is built using: node.js, express, mongoDB, mongoose
+On frontend, pug template is used
